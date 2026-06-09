@@ -20,17 +20,17 @@ I work at the intersection of **finance, data, and programming**, focusing on bu
 ## 📈 GitHub Performance (Live Stats)
 
 ### 🔥 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamesoumanjyotiofficial&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ### 📊 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=soumanjyotiofficial&theme=radical)
 
 ---
 
 ### 🧮 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumanjyotiofficial&layout=compact&theme=radical)
 
 ---
 
@@ -75,7 +75,7 @@ To build **institution-grade quantitative systems** that integrate finance theor
 - 📧 Email: jyotisouman@gmail.com  
 - 📍 Location: Mumbai, India  
 - 💼 LinkedIn: Add your link  
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 💻 GitHub: https://github.com/soumanjyotiofficial  
 
 ---
 
