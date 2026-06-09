@@ -10,11 +10,6 @@
 
 I work at the intersection of **finance, data, and programming**, focusing on building quantitative models, financial analytics systems, and research-driven investment strategies.
 
-- 📊 Quantitative Finance Enthusiast  
-- 🧠 Data-Driven Decision Maker  
-- 🐍 Python for Finance Developer  
-- 📉 Risk & Portfolio Analytics Explorer  
-
 ---
 
 ## 📈 GitHub Performance (Live Stats)
