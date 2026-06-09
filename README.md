@@ -1,71 +1,82 @@
-# Souman Jyoti
+# 👋 Hi, I'm Souman Jyoti
 
-## 👤 Profile
+## 🚀 Quantitative Finance | Python Developer | CFA Level II Cleared
 
 :contentReference[oaicite:0]{index=0}
 
-Aspiring **Quantitative Finance & Financial Data Analytics professional** with strong foundations in finance, programming, and statistical modeling. Focused on building data-driven investment systems and research-backed trading strategies.
+---
+
+### 💡 About Me
+
+I work at the intersection of **finance, data, and programming**, focusing on building quantitative models, financial analytics systems, and research-driven investment strategies.
+
+- 📊 Quantitative Finance Enthusiast  
+- 🧠 Data-Driven Decision Maker  
+- 🐍 Python for Finance Developer  
+- 📉 Risk & Portfolio Analytics Explorer  
 
 ---
 
-## 🎓 Education & Certification
+## 📈 GitHub Performance (Live Stats)
 
-- **CFA Program – Level II Cleared**
-- Aspiring **Master’s in Finance**
-- Background in Finance & Accounting
-- Strong exposure to quantitative methods and financial markets
+### 🔥 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-## 💻 Technical Skills
-
-- Python (Data Analysis, Automation, Financial Modeling)
-- Pandas, NumPy, Matplotlib
-- SQL (Basic to Intermediate)
-- Excel (Advanced Financial Modeling)
-- Django (Basic Web Development)
-- Git & GitHub
+### 📊 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
 
 ---
 
-## 📊 Areas of Interest
-
-- Quantitative Trading & Strategy Development
-- Financial Data Analytics
-- Risk Modeling & Portfolio Analysis
-- Algorithmic Trading Systems
-- Time Series Analysis
+### 🧮 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
-## 📁 Projects & Work
+## 🛠 Tech Stack
 
-- 📌 Backtested IPO post-listing investment strategy (Black Book Project)
-- 📌 Portfolio risk analysis using historical transaction data
-- 📌 Equity curve analysis and return distribution modeling
-- 📌 Python-based financial data pipelines
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-## 📈 Tools & Technologies
+## 📊 Focus Areas
 
-`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Excel` | `SQL` | `Django`
+- 📉 Quantitative Trading Systems  
+- 📊 Financial Data Analytics  
+- 🧮 Risk Modeling (VaR, Stress Testing)  
+- 📈 Portfolio Optimization  
+- ⏳ Time Series Forecasting  
+
+---
+
+## 📁 Featured Projects
+
+- 🧾 IPO Post-Listing Backtesting Strategy (Black Book Project)  
+- 📊 Portfolio Risk & Return Analytics Engine  
+- 📉 Equity Curve & Drawdown Analysis System  
+- 🔁 Transaction-Level Return Distribution Model  
 
 ---
 
 ## 🎯 Career Objective
 
-To build a career in **quantitative finance and financial data analytics**, leveraging statistical methods, programming, and market research to design robust investment strategies and decision systems.
+To build **institution-grade quantitative systems** that integrate finance theory, statistical modeling, and machine learning for real-world investment decision-making.
 
 ---
 
-## 📫 Contact
+## 📬 Connect With Me
 
-- Email: jyotisouman@gmail.com  
-- Location: Mumbai, India  
-- LinkedIn: (add your link)  
-- GitHub: (add your link)
+- 📧 Email: jyotisouman@gmail.com  
+- 📍 Location: Mumbai, India  
+- 💼 LinkedIn: Add your link  
+- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 
 ---
 
-⭐ Always learning, building, and improving in the field of finance & data science.
+⭐ *“Building systems where finance meets computation.”*
