@@ -15,7 +15,7 @@ I work at the intersection of **finance, data, and programming**, focusing on bu
 ## 📈 GitHub Performance (Live Stats)
 
 ### 🔥 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamesoumanjyotiofficial&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumanjyotiofficial&show_icons=true&theme=radical&count_private=true)
 
 ---
 
