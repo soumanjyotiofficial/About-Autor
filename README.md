@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Quantitative+Finance+Enthusiast;Python+for+Finance+Developer;CFA+Level+II+Cleared;Data+Driven+Investment+Builder;Financial+Data+Analytics+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Statistical+Finance+Enthusiast;Python+for+Finance+Developer;CFA+Level+II+Cleared;Data-Driven-Investment-Maker" />
 </p>
