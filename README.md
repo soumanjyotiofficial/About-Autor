@@ -1,29 +1,71 @@
-# About-Autor
-# 💫 About Me:
-I am currently CFA program candidate. <br>Aspiring to become Quantitative Analyst<br>My Skills are as follow:<br>Python and Jupiter<br>Financial Programming<br>Statistical Analysis<br>Time Series Analysis<br><br>
+# Souman Jyoti
 
+## 👤 Profile
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumanjyoti/) 
+:contentReference[oaicite:0]{index=0}
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soumanjyotiofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soumanjyotiofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumanjyotiofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumanjyotiofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Aspiring **Quantitative Finance & Financial Data Analytics professional** with strong foundations in finance, programming, and statistical modeling. Focused on building data-driven investment systems and research-backed trading strategies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soumanjyotiofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jyotisouman@oksbi) 
+## 🎓 Education & Certification
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **CFA Program – Level II Cleared**
+- Aspiring **Master’s in Finance**
+- Background in Finance & Accounting
+- Strong exposure to quantitative methods and financial markets
+
+---
+
+## 💻 Technical Skills
+
+- Python (Data Analysis, Automation, Financial Modeling)
+- Pandas, NumPy, Matplotlib
+- SQL (Basic to Intermediate)
+- Excel (Advanced Financial Modeling)
+- Django (Basic Web Development)
+- Git & GitHub
+
+---
+
+## 📊 Areas of Interest
+
+- Quantitative Trading & Strategy Development
+- Financial Data Analytics
+- Risk Modeling & Portfolio Analysis
+- Algorithmic Trading Systems
+- Time Series Analysis
+
+---
+
+## 📁 Projects & Work
+
+- 📌 Backtested IPO post-listing investment strategy (Black Book Project)
+- 📌 Portfolio risk analysis using historical transaction data
+- 📌 Equity curve analysis and return distribution modeling
+- 📌 Python-based financial data pipelines
+
+---
+
+## 📈 Tools & Technologies
+
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Excel` | `SQL` | `Django`
+
+---
+
+## 🎯 Career Objective
+
+To build a career in **quantitative finance and financial data analytics**, leveraging statistical methods, programming, and market research to design robust investment strategies and decision systems.
+
+---
+
+## 📫 Contact
+
+- Email: jyotisouman@gmail.com  
+- Location: Mumbai, India  
+- LinkedIn: (add your link)  
+- GitHub: (add your link)
+
+---
+
+⭐ Always learning, building, and improving in the field of finance & data science.
